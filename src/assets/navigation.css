@@ -1,0 +1,12 @@
+.navigation_header {
+  width: 100%;
+  background-color: #cccccc;
+  height: 50px;
+  padding: 10px;
+  display: flex;
+  align-items: middle;
+}
+
+.cogs-btn {
+  margin: 5px;
+}
