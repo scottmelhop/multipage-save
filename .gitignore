@@ -1,0 +1,8 @@
+.venv
+.vscode
+__pycache__
+.idea
+bazel*
+*.pem
+envs.sh
+*cache
