@@ -1,3 +1,14 @@
 body {
   margin: 0px;
 }
+
+.cogs-checkbox input[type='checkbox'] {
+  position: relative;
+  left:2px;
+  top:2px;
+}
+
+
+.cogs-checkbox{
+  display: block;
+}
