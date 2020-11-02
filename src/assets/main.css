@@ -2,6 +2,7 @@ body {
   margin: 0px;
 }
 
+/* VERY IMPORTANT */
 .cogs-checkbox input[type='checkbox'] {
   position: relative;
   left:2px;
